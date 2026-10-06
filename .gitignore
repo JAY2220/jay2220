@@ -1,1 +1,3 @@
 .arena/
+backtest/results/
+__pycache__/
